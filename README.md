@@ -28,6 +28,7 @@ These are some of the technologies and tools that I work with:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-001?style=flat-square&logo=apachekafka&logoColor=orange)
 ![React](https://shields.io/badge/react-gray?logo=react&style=flat-square)
